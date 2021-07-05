@@ -51,3 +51,7 @@ group :test do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+
+gem "ahoy_matey", "~> 3.2"
+
+gem "faker", "~> 2.18"
